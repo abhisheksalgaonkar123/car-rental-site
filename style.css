@@ -1,4 +1,4 @@
 body { font-family: Arial, sans-serif; margin: 0; }
-header { background: red; color: red; padding: 20px; }
+header { background: #0a5; color: white; padding: 20px; }
 main { padding: 20px; }
 #cars { background: #f4f4f4; padding: 15px; border-radius: 8px; }
